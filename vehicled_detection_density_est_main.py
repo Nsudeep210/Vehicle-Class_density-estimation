@@ -2,7 +2,7 @@ from tkinter import *
 import os
 import cv2
 from PIL import ImageTk, Image
-from main import main_program
+from side import main_program
 #from plot import plotdensity
 #from writecsv import main_program2
 ##import main
